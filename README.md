@@ -9,7 +9,7 @@ Currently based in Nairobi,Kenya.
 
 ## **Projects**
 
-#### **To-Do App** [Repo](https://github.com/koechronix/To-Do-App) || [Try it](https://phase-3-frontend-xi.vercel.app/)
+#### :ToDo: **To-Do App** [Repo](https://github.com/koechronix/To-Do-App) || [Try it](https://phase-3-frontend-xi.vercel.app/)
 _Performs CRUD operations, using React.js as front-end and Ruby as back-end._
 
 ## **Skills**
