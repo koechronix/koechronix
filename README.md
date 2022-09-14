@@ -9,7 +9,7 @@ Currently based in Nairobi,Kenya.
 
 ## **Projects**
 
-#### **To-Do App** [Repo](https://github.com/koechronix/To-Do-App)/(https://github.com/koechronix/phase-3-sinatra-react-project) || [Try it](https://phase-3-frontend-xi.vercel.app/)
+#### **To-Do App** [Repo](https://github.com/koechronix/To-Do-App) || [Try it](https://phase-3-frontend-xi.vercel.app/)
 _Performs CRUD operations, using React.js as front-end and Ruby as back-end._
 
 ## **Skills**
