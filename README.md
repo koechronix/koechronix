@@ -31,16 +31,17 @@ _Performs CRUD operations, using React.js as front-end and Ruby as back-end._
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40">
 </p> -->
 
-<!-- <p float="left"> --> -->
+<!-- <p float="left"> --> 
+<table><tr><td valign="top" width="50%">
+
 
 ### Frontend  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="35" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="35" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="35" />
-<img style="margin: 10px" src="https://i.ibb.co/WfSJkqn/tailwindcss-removebg-preview.png" alt="JavaScript" height="35" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="35" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="35" />    
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" />    
 </div>
 
 </td><td valign="top" width="50%">
@@ -49,12 +50,14 @@ _Performs CRUD operations, using React.js as front-end and Ruby as back-end._
 
 ### Backend  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="35" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="35" />   
-<img style="margin: 10px" src="https://i.ibb.co/zG2M2QT/ruby-log-removebg-preview.png" alt="Ruby" height="35" />    
-<img style="margin: 10px" src="https://i.ibb.co/gWH1NMr/Ruby-On-Rails-Logo-svg-removebg-preview.png" alt="Rails" height="35" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" />   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" />   
+<img style="margin: 10px" src="https://i.ibb.co/zG2M2QT/ruby-log-removebg-preview.png" alt="Ruby" height="40" />    
+<img style="margin: 10px" src="https://i.ibb.co/gWH1NMr/Ruby-On-Rails-Logo-svg-removebg-preview.png" alt="Rails" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" />   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"  height="40">
+
 </div>
 <!-- </p> -->
 
