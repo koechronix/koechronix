@@ -3,7 +3,7 @@
 <img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="" width="500">
 
 
-- 🌱 I’m currently learning **Java**....
+- 🌱 I’m currently learning **Fundamentals of software testing**....
 
 - 💬 Ask me about **Rails, Ruby, React, JavaScript, HTML and CSS**
 
@@ -45,13 +45,12 @@ _Performs CRUD operations, using React.js as front-end and Ruby as back-end._
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" />    
 </div>
 
-<!-- </td><td valign="top" width="50%"> -->
 
 
 
 ### Backend  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" />  
+<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" />   -->
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" />   
 <img style="margin: 10px" src="https://i.ibb.co/zG2M2QT/ruby-log-removebg-preview.png" alt="Ruby" height="40" />    
 <img style="margin: 10px" src="https://i.ibb.co/gWH1NMr/Ruby-On-Rails-Logo-svg-removebg-preview.png" alt="Rails" height="40" />  
