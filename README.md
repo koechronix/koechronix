@@ -2,9 +2,12 @@
 <img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="" width="500">
 
 
-- 🌱 I’m currently learning Rails....
+- 🌱 I’m currently learning **Java**....
 
-Full-stack developer experiences in React, JavaScript and Ruby.
+- 💬 Ask me about **Rails, Ruby, React, JavaScript, HTML and CSS**
+
+- 📫 How to reach me **koechronix@yahoo.com**
+
 
 Currently based in Nairobi,Kenya. 
 
@@ -15,8 +18,8 @@ _Performs CRUD operations, using React.js as front-end and Ruby as back-end._
 
 ## **Skills**
 
-<p float="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40">
+<!-- <p float="left"> -->
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="40" height="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40">
@@ -26,6 +29,33 @@ _Performs CRUD operations, using React.js as front-end and Ruby as back-end._
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40">
+</p> -->
+
+<p float="left"> -->
+
+### Frontend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />
+<img style="margin: 10px" src="https://i.ibb.co/WfSJkqn/tailwindcss-removebg-preview.png" alt="JavaScript" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />    
+</div>
+
+</td><td valign="top" width="50%">
+
+
+
+### Backend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" />   
+<img style="margin: 10px" src="https://i.ibb.co/zG2M2QT/ruby-log-removebg-preview.png" alt="Ruby" height="25" />    
+<img style="margin: 10px" src="https://i.ibb.co/gWH1NMr/Ruby-On-Rails-Logo-svg-removebg-preview.png" alt="Rails" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25">
+</div>
 </p>
 
 ## **Get in Touch**
