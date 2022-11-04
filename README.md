@@ -33,7 +33,7 @@ _Performs CRUD operations, using React.js as front-end and Ruby as back-end._
 </p> -->
 
 <!-- <p float="left"> --> 
-<table><tr><td valign="top" width="50%">
+<!-- <table><tr><td valign="top" width="50%"> -->
 
 
 ### Frontend  
@@ -45,7 +45,7 @@ _Performs CRUD operations, using React.js as front-end and Ruby as back-end._
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" />    
 </div>
 
-</td><td valign="top" width="50%">
+<!-- </td><td valign="top" width="50%"> -->
 
 
 
@@ -60,7 +60,6 @@ _Performs CRUD operations, using React.js as front-end and Ruby as back-end._
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"  height="40">
 
 </div>
-</td><td valign="top" width="50%">
 
 ## **Get in Touch**
 <p float="left">
