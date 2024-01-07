@@ -11,12 +11,12 @@
 - Code wars link ***https://www.codewars.com/users/koechronix***
 
 
-Currently based in Nairobi,Kenya. 
+<!-- Currently based in Nairobi,Kenya. 
 
 ## **Projects**
 
 #### :ToDo: **To-Do App** [Repo](https://github.com/koechronix/To-Do-App) || [Try it](https://phase-3-frontend-xi.vercel.app/)
-_Performs CRUD operations, using React.js as front-end and Ruby as back-end._
+_Performs CRUD operations, using React.js as front-end and Ruby as back-end._ -->
 
 ## **Skills**
 
@@ -63,7 +63,7 @@ _Performs CRUD operations, using React.js as front-end and Ruby as back-end._
 
 ## **Get in Touch**
 <p float="left">
- <a href="https://www.linkedin.com/in/amos-koech-3b2310212/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" /></a>
+ <a href="https://www.linkedin.com/in/amos-koech-/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" /></a>
 <a href="https://medium.com/@amoskoech016" target="blank"><img src="https://www.svgrepo.com/show/354057/medium-icon.svg" height="30" width="30" /></a>
 </p>
 
