@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Rails, Ruby, React, JavaScript, HTML and CSS, DevOps Practices**
 
-- 📫 How to reach me **https://nimble-axolotl-98f9e2.netlify.app/**
+- 📫 My Portfolio **https://nimble-axolotl-98f9e2.netlify.app/**
 - Code wars link ***https://www.codewars.com/users/koechronix***
 
 
